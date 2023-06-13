@@ -1,0 +1,40 @@
+
+
+.navbar{
+    display: flex;
+    text-align: center;
+    height:100px;
+    justify-content: center;
+    background-color:blue;
+    padding-top: 43px;
+    font-size: 3rem;
+    color:aqua;
+}
+
+
+#CenterBlock{
+    display:flex;
+    border-color: #481a1a;
+    width: 400px;
+    height: 218px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    background-color: #8e6f99;
+    border-radius: 20px;
+}
+#btn{
+    display: flex;
+    border-color: black;
+    width:100px;
+    height: 40px;
+    text-align: center;
+    margin:auto;
+    justify-content: center;
+    background-color: blueviolet;
+    border-radius: 20px;
+    font-size: 18px;
+    color:white;
+    padding:9px;
+}
